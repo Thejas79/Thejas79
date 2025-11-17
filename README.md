@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Thejas 👋</h1>
 
-<!--
-**Thejas79/Thejas79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Java Full-Stack Developer | Learning Cloud & Networking</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm a passionate Java full-stack developer who loves creating clean, functional, and impactful applications.  
+Always exploring new technologies and improving my development skills.
+
+---
+
+### 🌱 What I'm Learning  
+- ☁️ Cloud Technologies  
+- 🔐 Networking Fundamentals  
+- 🧩 Advanced Java Frameworks (Spring, Hibernate)  
+- 🛠️ Expanding full-stack development skills  
+
+---
+
+### 🛠️ Tech Stack  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,hibernate,spring,bootstrap,mysql,php,cpp,git,github,kotlin,linux,aws" />
+</p>
+
+📝 *Includes:* Java, C, Python, JavaScript, HTML, CSS, Hibernate, Spring, Cloud, Networking, Bootstrap, MySQL, PHP, C++, Git, GitHub, Kotlin  
+
+---
+
+### 🤝 Looking to Collaborate
+- Java backend & full-stack projects  
+- Open-source contributions  
+- Cloud + networking learning projects  
+
+---
+
+### 📊 GitHub Stats (Dark Theme)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Thejas79&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejas79&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 📬 Contact Me
+<p align="left">
+<a href="mailto:tthejaskumar79@gmail.com">📧 Email Me</a><br>
+</p>
+
+---
+
+### ⭐ Thanks for Visiting!
+Feel free to explore my repositories and drop a star if you find something useful.
