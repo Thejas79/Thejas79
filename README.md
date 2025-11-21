@@ -1,3 +1,5 @@
+
+<h1 align="center" class ="typing">Hey there, I'm Thejas 👋</h1>
 <style>
 .typing {
   width: 0;
@@ -18,8 +20,6 @@
   50% { border-color: transparent; }
 }
 </style>
-<h1 align="center" class ="typing">Hey there, I'm Thejas 👋</h1>
-
 <h3 align="center">Java Full-Stack Developer | Learning Cloud & Networking</h3>
 
 ---
