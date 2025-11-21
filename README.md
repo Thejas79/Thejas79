@@ -1,25 +1,8 @@
 
-<h1 align="center" class ="typing">Hey there, I'm Thejas 👋</h1>
-<style>
-.typing {
-  width: 0;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 3px solid red; /* cursor */
-  font-size: 50px;
-  font-weight: bold;
-  animation: typing 2s steps(6) forwards, blink .6s infinite;
-}
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Thejas;Java+Full+Stack+Developer;Learning+Cloud+%26+Networking" />
+</p>
 
-@keyframes typing {
-  from { width: 0; }
-  to { width: 25ch; } /* FERRAI = 6 characters */
-}
-
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-</style>
 <h3 align="center">Java Full-Stack Developer | Learning Cloud & Networking</h3>
 
 ---
