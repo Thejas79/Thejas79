@@ -8,8 +8,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate Java full-stack developer who loves creating clean, functional, and impactful applications.  
-Always exploring new technologies and improving my development skills.
+I'm a freelance web developer helping local businesses establish their online presence through modern, responsive, and professional websites. I focus on building affordable websites tailored to each business, helping them showcase their services, reach more customers, and grow online. From design to development, I aim to make getting a website simple, accessible, and hassle-free for local businesses.
 
 ---
 
